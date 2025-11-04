@@ -1,4 +1,4 @@
-print("This tool only reset Gmail hotmail and aol domain for another domains check my Pass reset bot")
+print("This tool only reset Gmail hotmail and aol domain for another domains check my Pass reset bot option 5th")
 import requests
 import json
 
